@@ -57,8 +57,8 @@
 ## 🛠️ Сборка из исходников
 
 ```bash
-git clone https://github.com/toValha11a/123.git
-cd 123
+git clone <ссылка-на-этот-репозиторий>
+cd <папка-репозитория>
 ./mvnw clean package
 ```
 

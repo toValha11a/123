@@ -8,7 +8,7 @@
 
 [![Phone](https://img.shields.io/badge/📞_+7_(961)_352--76--03-1F3A5F?style=for-the-badge)](tel:+79613527603)
 [![Email](https://img.shields.io/badge/shhegolkov1992@mail.ru-2E86AB?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:shhegolkov1992@mail.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-toValha11a-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toValha11a)
+[![GitHub](https://img.shields.io/badge/GitHub-Hypaspistai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hypaspistai)
 
 📍 **г. Пенза** &nbsp;•&nbsp; 🏢 офис или 🏠 удалённо &nbsp;•&nbsp; 🕒 свободный график (совмещаю с очной учёбой) &nbsp;•&nbsp; 🇷🇺 гражданство РФ &nbsp;•&nbsp; 🎂 10.04.1992
 
@@ -121,15 +121,15 @@
 | 🤖 Unit-тесты JUnit 5 (граничные значения, реальные данные игры) | **9** |
 | 📐 UML-диаграммы, макеты, руководство пользователя, видеодемонстрация | ✅ |
 
-🔗 [**Тест-кейсы**](https://github.com/toValha11a/123/blob/main/docs/8.-Тестирование.md) &nbsp;•&nbsp;
-[**Документация**](https://github.com/toValha11a/123/tree/main/docs) &nbsp;•&nbsp;
-[**Исходный код**](https://github.com/toValha11a/123)
+🔗 [**Тест-кейсы**](../docs/8.-Тестирование.md) &nbsp;•&nbsp;
+[**Документация**](../docs/README.md) &nbsp;•&nbsp;
+[**Исходный код**](../README.md)
 
 </td>
 <td width="150" align="center" valign="middle">
 
-<img src="qr.png" width="130" alt="QR: документация проекта" /><br>
-<sub>Документация проекта</sub>
+<img src="qr.png" width="130" alt="QR: GitHub автора" /><br>
+<sub>GitHub автора</sub>
 
 </td>
 </tr>
